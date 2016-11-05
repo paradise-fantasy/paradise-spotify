@@ -4,8 +4,7 @@
 ```
 pip install pydbus
 pip install paho.mqtt
-sudo apt-get install
-python-gobject
+sudo apt-get install python-gobject
 ```
 
 ####Place certificate in path:
