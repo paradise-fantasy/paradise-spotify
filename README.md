@@ -3,7 +3,7 @@
 ## Install instructions
 ```
 pip install pydbus
-pip install paho.mqtt
+pip install paho-mqtt
 sudo apt-get install python-gobject
 ```
 
